@@ -1,0 +1,18 @@
+ul {
+    list-style-type: square;
+}
+div {
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+h3 {
+    border-bottom: 5px solid orange;
+    padding-bottom: 5px;
+
+}
+li {
+    background-color: palegreen;
+    margin-bottom: 2px;
+}
